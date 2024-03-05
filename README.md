@@ -1,7 +1,7 @@
 # English-dictionaries
 
 ## A Dictionary of Modern English Usage
-by H.W. Fowler, 1922.
+<i>by H.W. Fowler, 1922.</i>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Fowler's Dictionary of Modern English Usage is a classic, an unsurpassed resource on the correct use of English in matters of style, grammar, and syntax." 
 &nbsp;&nbsp;&nbsp;<i>-- Oxford University Press</i>
