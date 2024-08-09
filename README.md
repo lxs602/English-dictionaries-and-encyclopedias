@@ -1,4 +1,4 @@
-# English-dictionaries
+# English dictionaries and encyclopaedias
 
 ## A Dictionary of Modern English Usage
 <i>by H.W. Fowler, 1922.</i>
